@@ -28,3 +28,7 @@ body{
 #container h1 {
     font-size: 20px;
 }
+#footer{
+    background: brown;
+    text-align: center;
+}
