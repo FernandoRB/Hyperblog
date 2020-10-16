@@ -14,8 +14,9 @@ body{
     padding: 0.5em;
 }
 #cabecera #tagline{
+    width: 25px;
     margin: 1em 0 0 0 ;
-    font-weight: normal;
+    font-weight: center;
     font-size: 0.8em;
 }
 #container{
@@ -28,6 +29,7 @@ body{
 #container h1 {
     font-size: 20px;
 }
+
 #footer{
     background: brown;
     text-align: center;
